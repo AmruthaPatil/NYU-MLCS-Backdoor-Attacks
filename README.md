@@ -7,7 +7,7 @@ To execute this code, open and run the Lab4_ap7982.ipynb file in a Jupyter Noteb
 ### Data and Model Location
 The data and BadNet model are stored within the Lab4 folder. Please ensure that the paths to these resources are correctly specified in the code to enable seamless execution.
 Lab4
-├── data 
+├── data
 │   ├── cl
 │   │   ├── valid.h5    // Clean validation data used to design the defense
 │   │   └── test.h5     // Clean test data used to evaluate the BadNet
@@ -15,8 +15,10 @@ Lab4
 │       ├── bd_valid.h5 // Sunglasses poisoned validation data
 │       └── bd_test.h5  // Sunglasses poisoned test data
 ├── models
-    ├── bd_net.h5       // BadNet model
-    └── bd_weights.h5   // BadNet weights
+│   ├── bd_net.h5       // BadNet model
+│   └── bd_weights.h5   // BadNet weights
+└── Lab4_ap7982.ipynb   // Main Jupyter Notebook file
+
 
 ### Instructions
 - Launch a Jupyter Notebook environment.
