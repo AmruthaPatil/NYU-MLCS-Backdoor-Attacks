@@ -6,7 +6,8 @@ To execute this code, open and run the Lab4_ap7982.ipynb file in a Jupyter Noteb
 
 ### Data and Model Location
 The data and BadNet model are stored within the Lab4 folder. Please ensure that the paths to these resources are correctly specified in the code to enable seamless execution. \
-Lab4 \
+\
+Lab4: \
 ├── data: \
 │   ├──── cl: \
 │   │   ├────── valid.h5 \
@@ -16,7 +17,7 @@ Lab4 \
 │       └────── bd_test.h5 \
 ├── models: \
 │   ├──── bd_net.h5 \
-│   └──── bd_weights.h5 \
+│   └──── bd_weights.h5 
 
 ### Instructions
 - Launch a Jupyter Notebook environment.
