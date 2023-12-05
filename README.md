@@ -5,7 +5,7 @@
 To execute this code, open and run the Lab4_ap7982.ipynb file in a Jupyter Notebook environment. We recommend using a local Jupyter Notebook setup due to the substantial storage and RAM requirements, which might exceed the capabilities of basic platforms like Google Colab.
 
 ### Data and Model Location
-The data and BadNet model are stored within the Lab4 folder. Please ensure that the paths to these resources are correctly specified in the code to enable seamless execution. \
+The data and BadNet model are stored within the Lab4 folder. The Lab4 folder is to be placed in the main repo. Please ensure that the paths to these resources are correctly specified in the code to enable seamless execution. \
 \
 Lab4: \
 ├── data: \
