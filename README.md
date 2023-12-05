@@ -10,11 +10,11 @@ The data and BadNet model are stored within the Lab4 folder. The Lab4 folder is 
 Lab4: \
 ├── data: \
 │   ├──── cl: \
-│   │   ├────── valid.h5 \
-│   │   └────── test.h5 \
+│   │   ├──────── valid.h5 \
+│   │   └──────── test.h5 \
 │   └──── bd: \
-│       ├────── bd_valid.h5 \
-│       └────── bd_test.h5 \
+│   │   ├──────── bd_valid.h5 \
+│   │   └──────── bd_test.h5 \
 ├── models: \
 │   ├──── bd_net.h5 \
 │   └──── bd_weights.h5 
