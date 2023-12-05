@@ -11,7 +11,7 @@ Lab4 \
 │   ├──── cl: \
 │   │   ├────── valid.h5 \
 │   │   └────── test.h5 \
-│   └── bd: \
+│   └──── bd: \
 │       ├────── bd_valid.h5 \
 │       └────── bd_test.h5 \
 ├── models: \
