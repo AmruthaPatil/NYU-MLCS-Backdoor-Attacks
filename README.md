@@ -29,4 +29,5 @@ Lab4: \
 Ensure all necessary dependencies, such as Python libraries (e.g., NumPy, Pandas, Matplotlib, seaborn, etc.) and machine learning frameworks (e.g., TensorFlow, Keras), are installed in your environment before running the code.
 
 ### Outputs
-The saved models for repaired networks for X={2%,4%,10%} are available in the main repo under names 'repair_network_2.h5', 'repair_network_4.h5', and 'repair_network_10.h5' respectively.
+The saved models for repaired networks for X={2%,4%,10%} are available in the main repo under names 'repair_network_2.h5', 'repair_network_4.h5', and 'repair_network_10.h5' respectively.\
+The report for this assignment is available under 'MLCS Lab4 report ap7982.pdf'. 
